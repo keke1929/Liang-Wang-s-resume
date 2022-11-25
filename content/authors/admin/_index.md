@@ -32,7 +32,7 @@ organizations:
     url: https://www.shanghaitech.edu.cn
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Electrical Engineering
       institution: ShanghaiTech University
       year: 2019
     - course: BSc in  Electrical Engineering and automation
