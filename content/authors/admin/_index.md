@@ -1,6 +1,6 @@
 ---
 title: Liang Wang 王良
-role: Ph.D candidate  of Electrical Engineering
+role: Ph.D student of Electrical Engineering
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
