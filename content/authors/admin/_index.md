@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - point-of-load converter
+  - Point-of-load converter
   - dcdc converter
-  - multi-port converter
+  - Multi-port converter
 social:
   - icon: envelope
     icon_pack: fas
