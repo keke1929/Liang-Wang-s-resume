@@ -28,7 +28,9 @@ authors:
   - ""
 author_notes:
   - First Author
-  - Corresponding author Senior member IEEE
+  - Corresponding author
+  - Senior member
+  - IEEE
 publication: IEEE Trans. Power Electron
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
@@ -49,7 +51,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: ""
-date: 2015-09-01T00:00:00Z
+date: 2023-01-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
