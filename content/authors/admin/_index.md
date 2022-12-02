@@ -2,8 +2,7 @@
 title: Liang Wang (王良)
 role: Ph.D candidate of Power Electronics
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include distributed robotics,
 interests:
   - Point-of-load converter
   - dcdc converter
